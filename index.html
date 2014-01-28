@@ -1,65 +1,92 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
-    <meta charset='utf-8'>
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
-
     <title>Diegozeng&#39;s Home Page by diegozeng</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
   </head>
-
   <body>
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="https://github.com/diegozeng">View On GitHub</a></li>
+        </nav>
+      </div><!-- end header -->
 
-    <header>
-      <div class="container">
-        <h1>Diegozeng&#39;s Home Page</h1>
-        <h2>Keep Your Curiosity</h2>
+    <div class="wrapper">
 
-        <section id="downloads">
-          <a href="https://github.com/diegozeng" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
-    </header>
+      <section>
+        <div id="title">
+          <h1>Diegozeng&#39;s Home Page</h1>
+          <p>Keep Your Curiosity</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/diegozeng">diegozeng</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+        </div>
 
-    <div class="container">
-      <section id="main_content">
         <h2>
-<a name="background" class="anchor" href="#background"><span class="octicon octicon-link"></span></a>Background</h2>
+<a name="background" class="anchor" href="#background"><span class="octicon octicon-link"></span></a><strong>Background</strong>
+</h2>
+
+<hr><ul>
+<li>
+<a href="http://www.umac.mo/">University of Macau</a> (2010-2014),   Bachelor of Science,   Electrical and Electronic Engineering</li>
+</ul><hr><h2>
+<a name="experience" class="anchor" href="#experience"><span class="octicon octicon-link"></span></a><strong>Experience</strong>
+</h2>
+
+<hr><ul>
+<li>
+<a href="http://www.inesc.pt/files/pages/inesc.php">INESC Macau</a>, Research Assistant</li>
+<li>
+<a href="https://ist.ac.at/">IST Austria</a>, Visiting Scientist </li>
+<li>
+<a href="http://english.neworiental.org/publish/portal59/">New Oriental Education &amp; Technology Group</a>, Teacher Assistant</li>
+</ul><hr><h2>
+<a name="research" class="anchor" href="#research"><span class="octicon octicon-link"></span></a><strong>Research</strong>
+</h2>
+
+<ol>
+<li>Bio-signal processing and analysis 
 
 <ul>
-<li><a href="http://www.umac.mo/">University of Macau</a></li>
-</ul><pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
+<li><a href="https://github.com/diegozeng/ECG-analysis-and-identification">ECG feature points detection</a></li>
+<li>PCG (Heart sound signal) denoising</li>
+<li><a href="https://www.dropbox.com/s/0hucuaul57ud8n5/Poster%EF%BC%88A0%EF%BC%89.pdf">Hippocampal Sharp Wave Ripple (SWR) detection on CA1/CA3 region</a></li>
+</ul>
+</li>
+<li>Applications on Embedded system / Microprocessor / DSP / FPGA<br><ul>
+<li>8051 series (AT89C52/C8051F340)</li>
+<li>AVR (ATmega328) <a href="http://arduino.cc/en/Main/arduinoBoardUno">Arduino Uno</a>
+</li>
+<li>ARM (SAM3X8E) <a href="http://arduino.cc/en/Main/arduinoBoardDue">Arduino Due</a>
+</li>
+</ul>
+</li>
+<li>Data Science 
 
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
-
-<h3>
-<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
-
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
-
-<h3>
-<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
-
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
-
-<h3>
-<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>
-<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
+<ul>
+<li>Machine learning</li>
+<li>ARIMA/State-Space Models </li>
+<li>Data Mining</li>
+</ul>
+</li>
+</ol><hr>
       </section>
-    </div>
 
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     
   </body>
 </html>
