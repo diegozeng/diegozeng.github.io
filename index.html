@@ -118,7 +118,7 @@ if(!(visits=GetCookie("visits")))
 
 visits=0;visits++;SetCookie("visits",visits,expdate,"/",null,false);//以下信息显示可以使用标准的HTML语法,自己随便设置。
 
-document.write("<div style='text-align:center;'>Times you visit my home page"+": "+"<FONT COLOR=red>"+visits+"</FONT>");if(visits==1)//来访1次的信息显示
+document.write("<div style='text-align:center;'>Times you visited my home page"+": "+"<FONT COLOR=red>"+visits+"</FONT>");if(visits==1)//来访1次的信息显示
 
 document.write("<br>"+"<div style='text-align:center;'>First Blood!");if(visits==2)//来访2次的信息显示，以下类推，自己随便增加。
 
