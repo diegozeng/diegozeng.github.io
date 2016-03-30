@@ -17,16 +17,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="" />
 
-    <meta name="author" content="Tao Zeng" />
-    <meta name="description" content="" />
+<meta name="author" content="Tao" />
+<meta name="description" content="测试RSS订阅功能" />
+<meta name="keywords" content="RSS, 测试">
 <meta property="og:site_name" content="Tao Say"/>
-<meta property="og:type" content="blog"/>
-<meta property="og:title" content="Tao Say"/>
-<meta property="og:description" content=""/>
+<meta property="og:title" content="RSS订阅功能测试"/>
+<meta property="og:description" content="测试RSS订阅功能"/>
 <meta property="og:locale" content="en_US"/>
-<meta property="og:url" content=""/>
-
-  <title>Tao Say &ndash; Archives</title>
+<meta property="og:url" content="/RSS-testing.html"/>
+<meta property="og:type" content="article"/>
+<meta property="article:published_time" content="2016-03-30 00:00:00-07:00"/>
+<meta property="article:modified_time" content=""/>
+<meta property="article:author" content="/author/tao.html">
+<meta property="article:section" content="testing"/>
+<meta property="article:tag" content="RSS"/>
+<meta property="article:tag" content="测试"/>
+<meta property="og:image" content="">
+  <title>Tao Say &ndash; RSS订阅功能测试</title>
 </head>
 <body>
   <aside>
@@ -55,16 +62,28 @@
 
 <article>
   <header>
-    <h1>Archives</h1>
+    <h1 id="RSS-testing">RSS订阅功能测试</h1>
+    <p>Posted on Wed 30 March 2016 in <a href="/category/testing.html">testing</a></p>
   </header>
   <div>
-    <dl>
-      <dt>Wed 30 March 2016</dt>
-      <dd><a href="/RSS-testing.html">RSS订阅功能测试</a></dd>
-      <dt>Tue 29 March 2016</dt>
-      <dd><a href="/pelican-install.html">使用Pelican和GitHub搭建个人博客</a></dd>
-    </dl>
+    <p>测试RSS订阅功能</p>
   </div>
+  <div class="tag-cloud">
+    <p>
+      <a href="/tag/rss.html">RSS</a>
+      <a href="/tag/ce-shi.html">测试</a>
+    </p>
+  </div>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'diegozengtao';
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 </article>
 
     <footer>
@@ -76,5 +95,22 @@
 
 
 
-</body>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "name": "RSS订阅功能测试",
+  "headline": "RSS订阅功能测试",
+  "datePublished": "2016-03-30 00:00:00-07:00",
+  "dateModified": "",
+  "author": {
+    "@type": "Person",
+    "name": "Tao",
+    "url": "/author/tao.html"
+  },
+  "image": "{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/profile.png",
+  "url": "/RSS-testing.html",
+  "description": "测试RSS订阅功能"
+}
+</script></body>
 </html>
