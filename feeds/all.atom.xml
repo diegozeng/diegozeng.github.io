@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Tao Say</title><link href="http://diegozeng.github.io/" rel="alternate"></link><link href="http://diegozeng.github.io/feeds/all.atom.xml" rel="self"></link><id>http://diegozeng.github.io/</id><updated>2016-11-25T00:00:00-08:00</updated><entry><title>感恩节随便写</title><link href="http://diegozeng.github.io/posts/2016/11/25/thanks-giving-note/" rel="alternate"></link><updated>2016-11-25T00:00:00-08:00</updated><author><name>Tao</name></author><id>tag:diegozeng.github.io,2016-11-25:posts/2016/11/25/thanks-giving-note/</id><summary type="html">&lt;p&gt;开始第一份工作5个月有余，利用感恩节假期回家了一趟，公司vpn一直抽风，刚好开始了完全脱离工作的第一个假期。&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Tao Say</title><link href="http://diegozeng.github.io/" rel="alternate"></link><link href="http://diegozeng.github.io/feeds/all.atom.xml" rel="self"></link><id>http://diegozeng.github.io/</id><updated>2018-02-14T00:00:00-08:00</updated><entry><title>2.13上海梅龙镇H1B首签水果</title><link href="http://diegozeng.github.io/posts/2018/02/14/h1b-visa-application/" rel="alternate"></link><updated>2018-02-14T00:00:00-08:00</updated><author><name>Tao</name></author><id>tag:diegozeng.github.io,2018-02-14:posts/2018/02/14/h1b-visa-application/</id><summary type="html">&lt;p&gt;去年10月底约的，上海的位置好紧张, 没约到圣诞的, 干脆过年回来顺便签。
+时间是2月13早上8点半。lz 8点不到就到了(滴滴司机说现在上海很空，大多数人都回家过年了)。上次F1是在梅龙镇签的, 顺着记忆先排队拿牌子, 顺着人群进楼上电梯8楼。排队过安检, 贴护照地址。进去以后先在1号窗展示护照, 窗口小哥给了一个H/L类签证的小贴士, 接着去8号窗录了指纹。录完指纹后, 直接被工作人员牵引到26号窗排队。上海这边有两个窗口26/27可以办理, 我去的那天办L和H的人比较少, 似乎也夹杂了些其他类型的签证。不过队伍还是比正常B类的窗口短。&lt;/p&gt;
+&lt;p&gt;接下来是默默观察时间, 26号是金发白人女(简称A女)，27号棕发白人(简称B男)。我先排在27, 队伍最前面和B男交流的应该是一个Software Engineer, B男问了job title，答machine learning engineer, B男表示pardon? 后他改口说了software engineer, 再解释了下什么是machine learning。B男似乎也不是很仔细在听， 直接要了简历和工作证明。这个时候我发现B男的表情显得不是很好, 语气也比一开始高昂了, 我果断换到了26的队伍里。26的队伍其实更慢一些, 排在最前面的是一对couple, 可能是H/L+F2的组合, 花了特别长的时间, 总体来讲A女还是表现的很耐心, 最后couple满意的离开也没拿条, 于是就决定排27了。
+轮到我的时候大概只问了以下几个问题:
+&lt;lo&gt;
+&lt;li&gt;1. 工作单位&lt;/li&gt;
+&lt;li&gt;2. 工作年限&lt;/li&gt;
+&lt;li&gt;3. 工作职位 + 主要是干什么的 (必问题）&lt;/li&gt;
+&lt;li&gt;4. 薪水情况 (必问题)&lt;/li&gt;
+&lt;li&gt;5. opt时在哪工作&lt;/li&gt;
+&lt;/lo&gt;&lt;/p&gt;
+&lt;p&gt;最后离开时还给我发了本小册子, 关于在美国工作收到不公正待遇该怎么办的。期间也没提approve or check, 最后提了一下大约要1周半。我特意问了下是不是考虑了春节一周的假期, A女点点头。
+签完后当晚(2月13日晚)查是AP, 2月14日中午查已经Issued (估计最后一个工作日了，效率奇高)。&lt;/p&gt;
+&lt;p&gt;最后祝新春快乐, 希望所有过年回签的都能水果, 安心地过个年。&lt;/p&gt;</summary><category term="签证"></category></entry><entry><title>感恩节随便写</title><link href="http://diegozeng.github.io/posts/2016/11/25/thanks-giving-note/" rel="alternate"></link><updated>2016-11-25T00:00:00-08:00</updated><author><name>Tao</name></author><id>tag:diegozeng.github.io,2016-11-25:posts/2016/11/25/thanks-giving-note/</id><summary type="html">&lt;p&gt;开始第一份工作5个月有余，利用感恩节假期回家了一趟，公司vpn一直抽风，刚好开始了完全脱离工作的第一个假期。&lt;br&gt;
 总的来说, 在脸家的头5个月体验很不错，可能是传说中的"蜜月期"吧，6周的新兵训练营找到了一个很不错的组，跟着大哥大姐混学到不少东西，3个多月也做了大大小小不少项目。每天早上的充能早餐都令人觉得新的一天很有干劲，下午累了还能自己去厨房弄点坚果啃。当然也认识了一群有趣的人，现在越来越能感受到和一群聪明有趣的人工作是一件多么幸福和快乐的事情，工资待遇啥的都是次要的。&lt;br&gt;
 这次回来在家里，无聊刷起了github, 看看自己闲置了几个月的blog，觉得也该写点啥了，不能再让这里荒着。日子过得飞快，github就像索引，总能按照时间戳一板一眼地记录一些东西。&lt;br&gt;
 最早是泽哥让我知道了有github这东西，2013年2月，我试着注册了一个账号。那时主要用来写嵌入式系统的项目，和泽哥一组，每次都是泽哥一口气写完了，完全没用上这些复杂的版本管理的功能。后来渐渐熟悉了，开始自己建起本地仓库，同步到github，自己开始add/commit/push, 有时还搞几个branch, 开发不同的feature，最后各种merge rebase。那时候已经不和泽哥一组做项目了(估计太水了被嫌弃)， 后来发现其他人一组时，别人也用不惯这套东西，所以干脆自己刷刷写完。突然发现和别人一组时，自己也逐渐变成了当年的泽哥。。。&lt;br&gt;
